@@ -70,7 +70,7 @@
         "stream-json": "^1.7.2",
         "tough-cookie": "^4.0.0",
         "underscore": "^1.13.0",
-        "ws": "^7.5.3"
+        "ws": "^8.0.0"
     },
     "peerDependencies": {
         "playwright": "^1.11.0",
@@ -106,7 +106,7 @@
         "@types/sinon": "^10.0.0",
         "@types/tough-cookie": "^4.0.1",
         "@types/underscore": "^1.11.3",
-        "@types/ws": "^7.4.7",
+        "@types/ws": "^8.0.0",
         "basic-auth-parser": "^0.0.2",
         "body-parser": "^1.19.0",
         "csv-parse": "^4.16.0",
